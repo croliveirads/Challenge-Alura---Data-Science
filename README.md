@@ -45,7 +45,14 @@ Como parte da análise solicitada, foi realizado um levantamento dos produtos ma
 
 ## 5.	Frete médio por loja
 Outra etapa importante da análise foi calcular o frete médio por loja, a fim de entender os custos logísticos associados às operações de cada unidade. Esse indicador permite avaliar a eficiência do processo de entrega, além de identificar possíveis oportunidades de otimização de custos. Para isso, foram considerados todos os pedidos realizados em cada loja e o valor de frete associado a eles. A partir desses dados, foi possível comparar o desempenho entre as lojas e destacar aquelas com maiores e menores custos médios de frete.<br><br><br><br>
+
+##  Dashboard
+
+![dashboard](https://github.com/user-attachments/assets/d7b1c7ba-593a-465f-9e90-bfe71e0cdcbe)
+
 ## Conclusão
 Após realizar as análises de todas as lojas e extrair as informações foi possível observar que a Loja 1 é a loja que tem o maior faturamento de todas e a Loja 4 o menor faturamento. A avaliação de compra da Loja 1 ficou no ranqueamento em 3 lugar, a loja 4 em segundo lugar, se observamos também ao longo do tempo a loja 4 sempre esteve abaixo no quesito avaliação de compra. nos mostrando que mesmo em segundo lugar, devido a essas avaliações o seu faturamento pode ter sido menor.
 Dessa forma recomendamos Ao Sr Joao a venda da Loja 4 por conta de seu faturamento e avaliação de compra estar um pouco abaixo da qualidade esperada.<br><br>
+
+
 
